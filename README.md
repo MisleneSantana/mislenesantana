@@ -1,10 +1,10 @@
 ### Hello there 👋
-Sou a Mislene, estudante de Desenvolvimento Web Full Stack pela Kenzie Academy Brasil 
+I'm Mislene, Full Stack Web Development student at Kenzie Academy Brasil
 
-- 📌 Estou em busca de uma oportunidade como Desenvolvedora Front End
-- ✌️ Em transição de carreira
-- 🔰 No momento estou focada no Back End, estudando Python e o framework Django 
-- 👩‍🦰 ela/dela
+- 📌 I'm looking for an opportunity as a Front End Developer
+- ✌️ In career transition
+- 🔰 I'm currently studying Java and Angular
+- 👩‍🦰 she/her
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Mislene-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
