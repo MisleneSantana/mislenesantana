@@ -3,7 +3,7 @@ I'm Mislene, Full Stack Web Development student at Kenzie Academy Brasil
 
 - 📌 I'm looking for an opportunity as a Front End Developer
 - ✌️ In career transition
-- 🔰 I'm currently studying Java and Angular
+- 🔰 I'm currently studying React Native
 - 👩‍🦰 she/her
   
 <div style="display: inline_block"><br>
