@@ -1,10 +1,13 @@
 ### Hello there 👋
-I'm Mislene, Full Stack Web Development student at Kenzie Academy Brasil
+I'm a full stack developer looking for a first opportunity that allows me to apply my
+knowledge and develop my skills in a professional environment, while I collaborate to create web solutions.
+My background includes JavaScript, React.js, TypeScript, TailwindCss, Styled-Components, Node.js, Express, PostgreSQL, Python, Django and language fluency
+Hebraica (Hebrew).
 
-- 📌 I'm looking for an opportunity as a Front End Developer
-- ✌️ In career transition
-- 🔰 I'm currently studying React Native
-- 👩‍🦰 she/her
+- 📌 At the moment, I am applying for a position as a Front-end developer and work on freelance projects,
+- ✌️ In career transition,
+- 🔰 I'm currently studying React Native and development of mobile applications,
+- 👩‍🦰 she/her.
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Mislene-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
