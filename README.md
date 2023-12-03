@@ -1,6 +1,5 @@
 ### Welcome,
-I'm a full stack developer looking for a first opportunity that allows me to apply my
-knowledge and develop my skills in a professional environment, while I collaborate to create web solutions.
+I'm a full stack developer looking for a first opportunity that allows me to apply my knowledge and develop my skills in a professional environment, while I collaborate to create web solutions.
 My background includes JavaScript, React.js, TypeScript, TailwindCss, Styled-Components, Node.js, Express, PostgreSQL, Python, Django and fluent Hebrew.
 
 - 📌 At the moment I'm applying for a position as a front-end developer and work on freelance projects,
