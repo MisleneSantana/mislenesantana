@@ -1,4 +1,4 @@
-### Hello there 👋
+### Welcome,
 I'm a full stack developer looking for a first opportunity that allows me to apply my
 knowledge and develop my skills in a professional environment, while I collaborate to create web solutions.
 My background includes JavaScript, React.js, TypeScript, TailwindCss, Styled-Components, Node.js, Express, PostgreSQL, Python, Django and language fluency
