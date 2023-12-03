@@ -2,10 +2,7 @@
 I'm a full stack developer looking for a first opportunity that allows me to apply my knowledge and develop my skills in a professional environment, while I collaborate to create web solutions.
 My background includes JavaScript, React.js, TypeScript, TailwindCss, Styled-Components, Node.js, Express, PostgreSQL, Python, Django and fluent Hebrew.
 
-- 📌 At the moment I'm applying for a position as a front-end developer and work on freelance projects,
-- ✌️ In career transition,
-- 🔰 I'm currently studying React Native and development of mobile applications,
-- 👩‍🦰 she/her.
+At the moment I'm applying for a position as a front-end developer and work on freelance projects. I'm currently studying React Native and development of mobile applications.
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Mislene-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
