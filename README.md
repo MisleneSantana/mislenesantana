@@ -1,7 +1,7 @@
 ### Welcome,
 I'm a full stack developer looking for an opportunity to apply my knowledge in a professional environment, while collaborating in the creation of web solutions.
 
-My background includes skills in HTML, CSS, JavaScript, React.js, TypeScript, TailwindCss, Styled-Components, and familiarity with consuming APIs with Node.js, Express, PostgreSQL, TypeORM.
+My background includes skills in HTML, CSS, JavaScript, React.js, TypeScript, TailwindCss, Styled-Components, and familiarity with consuming APIs with Node.js, Express, PostgreSQL, TypeORM, Python and Django.
 I am familiar with and have completed projects using the practice of code versioning with Github.
 
 At the moment, I work as a freelance front-end developer, and I'm specializing in mobile application development.
