@@ -1,8 +1,12 @@
 ### Welcome,
-I'm a full stack developer looking for a first opportunity that allows me to apply my knowledge and develop my skills in a professional environment, while I collaborate to create web solutions.
-My background includes JavaScript, React.js, TypeScript, TailwindCss, Styled-Components, Node.js, Express, PostgreSQL, Python, Django and fluent Hebrew.
+I'm a full stack developer looking for an opportunity to apply my knowledge in a professional environment, while collaborating in the creation of web solutions.
 
-At the moment I'm applying for a position as a front-end developer and work on freelance projects. I'm currently studying React Native and development of mobile applications.
+My background includes skills in HTML, CSS, JavaScript, React.js, TypeScript, TailwindCss, Styled-Components, and familiarity with consuming APIs with Node.js, Express, PostgreSQL, TypeORM.
+I am familiar with and have completed projects using the practice of code versioning with Github.
+
+At the moment, I work as a freelance front-end developer, and I'm specializing in mobile application development.
+
+I speak Hebrew and study English.
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Mislene-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
