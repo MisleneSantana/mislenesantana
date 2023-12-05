@@ -1,6 +1,6 @@
 ### Welcome,
 
-<img align="right" alt="GIF" height="160px" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" />
+<img align="right" alt="GIF" height="220px" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" />
 
 I'm a full stack developer looking for an opportunity to apply my knowledge in a professional environment, while collaborating in the creation of web solutions.
 
