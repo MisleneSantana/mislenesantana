@@ -1,6 +1,6 @@
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 ### Welcome,
 I'm a full stack developer looking for an opportunity to apply my knowledge in a professional environment, while collaborating in the creation of web solutions.
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 My background includes skills in HTML, CSS, JavaScript, React.js, TypeScript, TailwindCss, Styled-Components and familiarity with consuming APIs using Node.js, Express, PostgreSQL, TypeORM, Python and Django.
 Practice code versioning with Github.
