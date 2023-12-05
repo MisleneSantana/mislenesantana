@@ -1,3 +1,4 @@
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 ### Welcome,
 I'm a full stack developer looking for an opportunity to apply my knowledge in a professional environment, while collaborating in the creation of web solutions.
 
@@ -16,7 +17,11 @@ Advanced Hebrew speaker and English study.
   <img align="center" alt="Mislene-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Mislene-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Mislene-PostgreSql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Mislene-Express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
   <img align="center" alt="Mislene-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mislene-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Mislene-GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Mislene-Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 
  ##
