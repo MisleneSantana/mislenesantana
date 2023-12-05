@@ -1,12 +1,12 @@
 ### Welcome,
 I'm a full stack developer looking for an opportunity to apply my knowledge in a professional environment, while collaborating in the creation of web solutions.
 
-My background includes skills in HTML, CSS, JavaScript, React.js, TypeScript, TailwindCss, Styled-Components, and familiarity with consuming APIs with Node.js, Express, PostgreSQL, TypeORM, Python and Django.
-I am familiar with and have completed projects using the practice of code versioning with Github.
+My background includes skills in HTML, CSS, JavaScript, React.js, TypeScript, TailwindCss, Styled-Components and familiarity with consuming APIs using Node.js, Express, PostgreSQL, TypeORM, Python and Django.
+Practice code versioning with Github.
 
-I currently work as a freelance front-end developer and am specializing in Android development with Kotlin.
+I currently work as a freelance front-end developer and am specializing in Android mobile development with Kotlin.
 
-I speak Hebrew and study English.
+Advanced Hebrew speaker and English study.
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Mislene-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
