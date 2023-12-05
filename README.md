@@ -1,6 +1,7 @@
 ### Welcome,
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+//<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />//
+<img align="right" alt="GIF" height="160px" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" />
 
 I'm a full stack developer looking for an opportunity to apply my knowledge in a professional environment, while collaborating in the creation of web solutions.
 
@@ -14,6 +15,7 @@ Advanced Hebrew speaker and English study.
 <div style="display: inline_block"><br>
   <img align="center" alt="Mislene-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mislene-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="VS Code" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Mislene-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mislene-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mislene-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
