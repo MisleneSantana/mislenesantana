@@ -7,7 +7,7 @@ I'm a full stack developer looking for an opportunity to apply my knowledge in a
 My background includes skills in HTML, CSS, JavaScript, React.js, TypeScript, TailwindCss, Styled-Components and familiarity with consuming APIs using Node.js, Express, PostgreSQL, TypeORM, Python and Django.
 Practice code versioning with Github.
 
-I currently work as a freelance front-end developer and taking a postgraduate degree in Multiplatform Mobile Applications.
+I currently work as a freelance front-end developer and a postgraduate degree in Multiplatform Mobile Applications.
 
 Advanced Hebrew speaker and English learner.
   
