@@ -8,6 +8,7 @@ My background includes skills in HTML, CSS, JavaScript, React.js, TypeScript, Ta
 Practice code versioning with Github.
 
 I currently work as a freelance front-end developer and am specializing in Android mobile development with Kotlin.
+I'm currently taking a postgraduate degree in Multiplatform Mobile Applications.
 
 Advanced Hebrew speaker and English learner.
   
