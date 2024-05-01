@@ -2,14 +2,13 @@
 
 <img align="right" alt="GIF" height="240px" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif" />
 
-I'm a full stack developer looking for an opportunity to apply my knowledge in a professional environment, while collaborating in the creation of web solutions.
+I'm a full-stack developer eager to leverage my expertise in a professional setting, contributing to the development of innovative web solutions.
 
-My background includes skills in HTML, CSS, JavaScript, React.js, TypeScript, TailwindCss, Styled-Components and familiarity with consuming APIs using Node.js, Express, PostgreSQL, TypeORM, Python and Django.
-Practice code versioning with Github.
+My skill set encompasses proficiency in HTML, CSS, JavaScript, React.js, TypeScript, TailwindCss, Styled-Components, as well as experience in utilizing APIs with Node.js, Express, PostgreSQL, TypeORM, Python, and Django. I'm adept at version control using GitHub.
 
-I currently work as a freelance front-end developer and I'm specializing through postgraduate course in Multiplatform Mobile Applications.
+Currently, I work as a freelance front-end developer, while pursuing a Bachelor's degree in Software Engineering and specializing in Multiplatform Mobile Applications.
 
-Advanced Hebrew speaker and English learner.
+Additionally, I am fluent in Hebrew and continuously improving my proficiency in English.
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Mislene-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
